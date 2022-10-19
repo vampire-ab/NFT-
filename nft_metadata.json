@@ -1,47 +1,24 @@
 {
   "description": "This NFT proves that I have deployed an ERC721 Smart Contract on Goerli", 
   "external_url": "https://www.alchemy.com", 
-  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png", 
-  "name": "Dave Starbelly",
+  "image": "https://ipfs.filebase.io/ipfs/QmQHMqjer65MHiDdFcVxKk2Xp1dP8YRVdrLCxMj9vGyL3S", 
+  "name": "First User",
   "attributes": [
       {
-        "trait_type": "Base", 
-        "value": "Starfish"
+        "trait_type": "Coolness", 
+        "value": "A lot"
       }, 
       {
         "trait_type": "Eyes", 
-        "value": "Big"
+        "value": "Beauty"
       }, 
       {
-        "trait_type": "Mouth", 
-        "value": "Surprised"
+        "trait_type": "Body Color", 
+        "value": "Purple"
       }, 
       {
-        "trait_type": "Level", 
-        "value": 5
-      }, 
-      {
-        "trait_type": "Stamina", 
-        "value": 1.4
-      }, 
-      {
-        "trait_type": "Personality", 
-        "value": "Sad"
-      }, 
-      {
-        "display_type": "boost_number", 
-        "trait_type": "Aqua Power", 
-        "value": 40
-      }, 
-      {
-        "display_type": "boost_percentage", 
-        "trait_type": "Stamina Increase", 
-        "value": 10
-      }, 
-      {
-        "display_type": "number", 
-        "trait_type": "Generation", 
-        "value": 2
+        "trait_type": "Name Holder Color", 
+        "value": "Blue"
       }
     ]
 }
